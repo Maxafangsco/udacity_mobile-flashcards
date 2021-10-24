@@ -1,13 +1,13 @@
 ### FlashCard.
-This is a simple mobile flash card, that allows users to create create questions and arrange them in decks.
+This is a simple mobile flash card, that allows users to create questions and arrange them in decks.
 it allows users to question themselves on individual deck and shows the average of correct questions over the entire questions.
 
 ### SetUp
-the application is created using `expo init`
-To get started;
-navigate to the project directory,
-run `yarn` to install the required modules
-run `yarn start` to start the project
+1. Clone the directory from https://github.com/Maxafangsco/udacity_mobile-flashcards.git.
+
+2. Navigate to the project directory.
+3. run `yarn` to install the required modules OR.
+4. run `yarn start` to start the project
 
 ### Libraries used
 
